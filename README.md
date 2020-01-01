@@ -1,0 +1,2 @@
+# gurusan
+bilişim
